@@ -83,7 +83,7 @@ I enjoy combining **modern web technologies** with **machine learning** to solve
     <img src="https://img.shields.io/badge/GitHub-kishan2057-181717?style=for-the-badge&logo=github">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Kishan_Yadav-0A66C2?style=for-the-badge&logo=linkedin">
+    <img src="https://www.linkedin.com/in/kishanyadav58/">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
